@@ -1,0 +1,66 @@
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\hciProject.exe
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\hciProject.deps.json
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\hciProject.runtimeconfig.json
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\hciProject.dll
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\hciProject.pdb
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_AddEditStudent.resources
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_AdminDashboard.resources
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_CourseRegistration.resources
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_Grading.resources
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_Login.resources
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_ManageStudents.resources
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_StudentDashboard.resources
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_Transcript.resources
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.csproj.GenerateResource.cache
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.AssemblyInfo.cs
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.sourcelink.json
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.csproj.Up2Date
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.dll
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\refint\hciProject.dll
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.pdb
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.genruntimeconfig.cache
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\ref\hciProject.dll
+C:\Users\Electronica Care\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Properties.Resources.resources
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\hciProject.exe
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\hciProject.deps.json
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\hciProject.runtimeconfig.json
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\hciProject.dll
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\hciProject.pdb
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\razan\source\repos\Student-Management-System\hciProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.csproj.AssemblyReference.cache
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_AddEditStudent.resources
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_AdminDashboard.resources
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_CourseRegistration.resources
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_Grading.resources
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_Login.resources
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_ManageStudents.resources
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_StudentDashboard.resources
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Frm_Transcript.resources
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.Properties.Resources.resources
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.csproj.GenerateResource.cache
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.AssemblyInfoInputs.cache
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.AssemblyInfo.cs
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.csproj.CoreCompileInputs.cache
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.sourcelink.json
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.csproj.Up2Date
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.dll
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\refint\hciProject.dll
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.pdb
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\hciProject.genruntimeconfig.cache
+C:\Users\razan\source\repos\Student-Management-System\hciProject\obj\Debug\net8.0-windows\ref\hciProject.dll

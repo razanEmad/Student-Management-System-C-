@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="forms\Frm_AddEditStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Frm_AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Frm_CourseRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Frm_Grading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Frm_ManageStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Frm_StudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Frm_Transcript.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

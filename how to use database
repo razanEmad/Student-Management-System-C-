@@ -1,0 +1,27 @@
+هيفتح الـ SQL Server عنده.
+
+هياخد ملف FullDatabaseScript.sql اللي أنت بعته ويرميه في الـ SQL.
+
+يضغط Execute. (كده الداتا بيز اتنقلت عنده بكل الجداول والبيانات).
+
+2. تعديل الـ Connection String (أهم خطوة) ⚠️
+المشروع مش هيشتغل عنده علطول لأن اسم "السيرفر" بتاعك مختلف عن بتاعه.
+
+عندك أنت: الاسم في الكود Data Source=3MNo3man.
+
+عنده هو: لازم يغير الاسم ده لاسم جهازه هو.
+
+قوله يعمل الآتي:
+
+يفتح ملف DBHelper.cs.
+
+يلاقي السطر ده:
+
+C#
+
+private string connectionString = @"Data Source=3MNo3man;Initial Catalog=StudentSystemDB;Integrated Security=True;TrustServerCertificate=True";
+يغير كلمة 3MNo3man ويكتب بدالها:
+
+إما . (نقطة) معناها السيرفر المحلي.
+
+أو يكتب اسم السيرفر بتاعه هو (بيظهر لما يفتح SQL Server في شاشة الدخول).
